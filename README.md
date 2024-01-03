@@ -4,5 +4,8 @@ Visit https://omegleapp.me to chat with strangers online instantly. Omegle Me is
 
 ## Our Socials
 
-- Twitter: https://twitter.com/OmegleAppMe
-- Facebook: https://www.facebook.com/omegleapp.me
+- [Twitter](https://omegleapp.me/twitter)
+- [Facebook](https://omegleapp.me/facebook) 
+- [Instagram](https://omegleapp.me/instagram)
+- [Discord](https://omegleapp.me/discord)
+- [Reddit](https://omegleapp.me/reddit)
